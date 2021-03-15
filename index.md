@@ -76,19 +76,6 @@ displayed if the 'eventbrite' field in the header is not set.
 </iframe>
 {% endif %}
 
-{% comment %}
-THIS IS A TEST
-{% endcomment %}
-
-<strong>Some adblockers block the registration window. If you do not see the
-  registration box below, please check your adblocker settings.</strong>
-<iframe
-  src="https://unt.zoom.us/meeting/register/tZIofuqupzIvEtP7wC3ghu6xccR-Hj8VP1Wr"
-  frameborder="0"
-  width="100%"
-  height="280px"
-  scrolling="auto">
-</iframe>
 
 <h2 id="general">General Information</h2>
 
