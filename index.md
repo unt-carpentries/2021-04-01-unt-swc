@@ -141,8 +141,9 @@ address.
 </p>
 {% elsif online == "true_private" %}
 <p id="where">
-  <strong>Where:</strong> This training will take place online.
-  The instructors will provide you with the information you will need to connect to this meeting.
+  <strong>Where:</strong> This training will take place online. Registration for <strong>each desired lesson</strong>
+  is required, so decide which ones you wish to attend and register for them, and instructions on how to join the lesson
+  will be sent to you.
 </p>
 {% endif %}
 
