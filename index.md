@@ -264,7 +264,7 @@ Edit the text to match who can attend the workshop. For instance:
 
 <h2 id="registration">Registration</h2>
 <div class="list-group">
-  <a href="https://unt.zoom.us/meeting/register/tZIofuqupzIvEtP7wC3ghu6xccR-Hj8VP1Wr" class="list-group-item list-group-item-warning">Bash Registration</a>
+  <a href="" class="list-group-item list-group-item-warning disabled">Bash Registration</a>
   <a href="https://unt.zoom.us/meeting/register/tZAvdeiqpz0pGtB9XFIb8w5aVTR2SlsPF81I" class="list-group-item list-group-item-warning">Python Registration (2 Days)</a>
   <a href="https://unt.zoom.us/meeting/register/tZAqfuyurzkiGtWx0jagkkOPcQoyxWOa-V9V" class="list-group-item list-group-item-warning">Git Registration</a>
 </div>
